@@ -1,6 +1,6 @@
 # Food Diet App
 
-A new Flutter project.
+A Flutter-based mobile application that provides delicious recipes with step-by-step instructions, detailed calorie counts, and skill-level ratings. Cook with confidence, no matter your experience!
 
 ## Getting Started
 
