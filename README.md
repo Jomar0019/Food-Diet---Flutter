@@ -1,4 +1,4 @@
-# jonihoney2025
+# Food Diet App
 
 A new Flutter project.
 
